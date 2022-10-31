@@ -1,8 +1,8 @@
 # Project Oanitic
 ### A cheat for tf2c
-> - This site only serves as a shortend link for the main site
-> - The Cheat's main site can be found [Here](https://sites.google.com/view/project-oanitic/home)
-> - The source code will NOT be public
+> - This site only exists so i can make github releases on here
+> - The Cheat's main site can be found [Here](https://www.oanitic.tk) (Oanitic.tk)
+> - The source code will NOT be public until i 100% give up on the project
 ```
 Download
 https://github.com/Project-Oanitic/project-oanitic.github.io/releases
