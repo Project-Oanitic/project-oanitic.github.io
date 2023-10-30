@@ -1,7 +1,6 @@
 # Project Oanitic
 ### A cheat for tf2 sourcemods
 > - This site only exists so i can make github releases on here
-> - The Cheat's main site can be found [Here](https://www.oanitic.tk) (Oanitic.tk)
 > - The source code will NOT be public
 ```
 Download
