@@ -3,11 +3,10 @@
 > - This site only exists so i can make github releases on here
 > - The source code will NOT be public
 ```
-Download
-https://github.com/Project-Oanitic/project-oanitic.github.io/releases
-```
-```
-A Rewrite is being made!
-Check the Oanitic Discord server (#annoucements) for more!
+Downloads are now always hosted on discord
 discord.gg/6FkrJHmK6w
+```
+```
+The rewrite has released!
+Go check it out in the discord server!
 ```
